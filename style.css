@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #A4B465;
-    color: #ffffff;
+    color: #000000;
 }
 
 header {
@@ -42,7 +42,7 @@ img {
 #kontak {
     padding: 20px;
     background-color:#626F47;
-    color: #ffffff;
+    color: #000000;
 }
 
 table {
